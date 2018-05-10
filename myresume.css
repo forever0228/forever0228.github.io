@@ -15,6 +15,9 @@ h2{
 h3 {
 	font-family: inherit;
 }
+* {
+  box-sizing: border-box;
+}
 
 .timeline {
   position: relative;
@@ -98,6 +101,7 @@ h3 {
 	text-transform: none;
 	margin-top: 1rem;
 }
+
 
 .bg-primary{background-color:#6f4596!important}
 .text-primary{color:#D8BFD8!important}
